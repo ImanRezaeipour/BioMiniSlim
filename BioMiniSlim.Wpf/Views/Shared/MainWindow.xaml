@@ -1,0 +1,12 @@
+﻿<telerik:RadWindow x:Class="BioMiniSlim.Wpf.Views.Shared.MainWindow"
+                   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                   xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" Loaded="MainWindow_OnLoaded"
+                   Header="مدیریت اثر انگشت" Height="600" Width="800" WindowStartupLocation="CenterScreen" FlowDirection="RightToLeft" HideMaximizeButton="True" ResizeMode="NoResize">
+    <Grid>
+        <telerik:RadButton x:Name="PersonListButton" Content="لیست کاربران" HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" VerticalAlignment="Top" Width="120" Click="PersonListButton_Click"/>
+        <telerik:RadButton x:Name="PersonCreateButton" Content="ایجاد کاربر" HorizontalAlignment="Left" Height="40" Margin="135,10,0,0" VerticalAlignment="Top" Width="120" Click="PersonCreateButton_Click"/>
+        <Frame Name="Frame" Margin="0,55,0,0" NavigationUIVisibility="Hidden"></Frame>
+        <telerik:RadButton x:Name="PersonFindButton" Content="جستجو کاربر" HorizontalAlignment="Left" Height="40" Margin="260,10,0,0" VerticalAlignment="Top" Width="120" Click="PersonFindButton_Click"/>
+    </Grid>
+</telerik:RadWindow>

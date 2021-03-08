@@ -1,0 +1,10 @@
+F:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\bin\Debug\BioMiniSlim.Core.dll
+F:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\bin\Debug\BioMiniSlim.Core.pdb
+F:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\obj\Debug\BioMiniSlim.Core.csprojResolveAssemblyReference.cache
+F:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\obj\Debug\BioMiniSlim.Core.dll
+F:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\obj\Debug\BioMiniSlim.Core.pdb
+G:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\bin\Debug\BioMiniSlim.Core.dll
+G:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\bin\Debug\BioMiniSlim.Core.pdb
+G:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\obj\Debug\BioMiniSlim.Core.csprojResolveAssemblyReference.cache
+G:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\obj\Debug\BioMiniSlim.Core.dll
+G:\Workspaces\BioMiniSlimProject\BioMiniSlim\BioMiniSlim.Core\obj\Debug\BioMiniSlim.Core.pdb
